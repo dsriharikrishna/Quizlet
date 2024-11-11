@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "question": "What is the capital of India?",
+      "choices": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "Which is the largest state in India by area?",
+      "choices": ["Uttar Pradesh", "Madhya Pradesh", "Rajasthan", "Maharashtra"],
+      "answer": "Rajasthan"
+    },
+    {
+      "question": "Who is known as the Father of the Nation in India?",
+      "choices": ["Jawaharlal Nehru", "Sardar Patel", "Mahatma Gandhi", "Subhas Chandra Bose"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "What is the national flower of India?",
+      "choices": ["Rose", "Lotus", "Tulip", "Sunflower"],
+      "answer": "Lotus"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "choices": ["Au", "Ag", "Pb", "Fe"],
+      "answer": "Au"
+    },
+    {
+      "question": "What is the process by which plants make their food?",
+      "choices": ["Respiration", "Digestion", "Photosynthesis", "Fermentation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "choices": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell", "James Watt"],
+      "answer": "Thomas Edison"
+    },
+    {
+      "question": "Which is the largest river in India?",
+      "choices": ["Ganges", "Yamuna", "Godavari", "Krishna"],
+      "answer": "Ganges"
+    },
+    {
+      "question": "In which year did India gain independence?",
+      "choices": ["1942", "1947", "1950", "1960"],
+      "answer": "1947"
+    },
+    {
+      "question": "What is the national animal of India?",
+      "choices": ["Lion", "Tiger", "Elephant", "Peacock"],
+      "answer": "Tiger"
+    }
+  ]
+}

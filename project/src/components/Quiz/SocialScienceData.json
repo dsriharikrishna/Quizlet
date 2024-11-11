@@ -1,0 +1,55 @@
+{
+    "data": [
+      {
+        "question": "Who was the first President of India?",
+        "choices": ["Jawaharlal Nehru", "Rajendra Prasad", "Sardar Patel", "Lal Bahadur Shastri"],
+        "answer": "Rajendra Prasad"
+      },
+      {
+        "question": "Which is the longest river in India?",
+        "choices": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+        "answer": "Ganga"
+      },
+      {
+        "question": "Who wrote the national anthem of India?",
+        "choices": ["Rabindranath Tagore", "Subhas Chandra Bose", "Bhagat Singh", "Mahatma Gandhi"],
+        "answer": "Rabindranath Tagore"
+      },
+      {
+        "question": "What is the capital city of India?",
+        "choices": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+        "answer": "New Delhi"
+      },
+      {
+        "question": "In which year did India gain independence?",
+        "choices": ["1947", "1950", "1930", "1965"],
+        "answer": "1947"
+      },
+      {
+        "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
+        "choices": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Sardar Patel"],
+        "answer": "Mahatma Gandhi"
+      },
+      {
+        "question": "What is the official language of India?",
+        "choices": ["English", "Hindi", "Bengali", "Punjabi"],
+        "answer": "Hindi"
+      },
+      {
+        "question": "Which city is known as the 'Silicon Valley of India'?",
+        "choices": ["Mumbai", "Hyderabad", "Chennai", "Bengaluru"],
+        "answer": "Bengaluru"
+      },
+      {
+        "question": "Who was the first woman Prime Minister of India?",
+        "choices": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Jayalalithaa"],
+        "answer": "Indira Gandhi"
+      },
+      {
+        "question": "Which Indian state is known for its tea gardens?",
+        "choices": ["West Bengal", "Assam", "Kerala", "Punjab"],
+        "answer": "Assam"
+      }
+    ]
+  }
+  

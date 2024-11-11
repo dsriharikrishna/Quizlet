@@ -1,0 +1,55 @@
+{
+    "data": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "choices": ["H2O", "O2", "CO2", "H2"],
+        "answer": "H2O"
+      },
+      {
+        "question": "What planet is known as the Red Planet?",
+        "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the process by which plants make their own food?",
+        "choices": ["Respiration", "Transpiration", "Photosynthesis", "Osmosis"],
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "choices": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+        "answer": "Mitochondria"
+      },
+      {
+        "question": "What gas do plants take in during photosynthesis?",
+        "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "question": "Which element is essential for the formation of red blood cells?",
+        "choices": ["Iron", "Oxygen", "Calcium", "Sodium"],
+        "answer": "Iron"
+      },
+      {
+        "question": "What is the chemical formula for methane?",
+        "choices": ["CH4", "CO2", "C2H6", "H2O"],
+        "answer": "CH4"
+      },
+      {
+        "question": "Which of these is a mammal?",
+        "choices": ["Shark", "Bat", "Lizard", "Octopus"],
+        "answer": "Bat"
+      },
+      {
+        "question": "What is the boiling point of water?",
+        "choices": ["90°C", "95°C", "100°C", "110°C"],
+        "answer": "100°C"
+      },
+      {
+        "question": "What is the main component of air?",
+        "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+      }
+    ]
+  }
+  
